@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "842549159258",
+    "firebase_url": "https://prolinsitsolutionchallenge.firebaseio.com",
+    "project_id": "prolinsitsolutionchallenge",
+    "storage_bucket": "prolinsitsolutionchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842549159258:android:b3a2cde01ce0bf0ade3f63",
+        "android_client_info": {
+          "package_name": "com.prolinschallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842549159258-rqmbl3q9jq2t9k5ae0pop23g3rapsoo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaIZS5M28TGbiEFtw2Pm3yycwn4M-t8WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842549159258-rqmbl3q9jq2t9k5ae0pop23g3rapsoo3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "842549159258-uj1pr843jt884rd4po75gb02q98b6b6u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prolinschallenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
